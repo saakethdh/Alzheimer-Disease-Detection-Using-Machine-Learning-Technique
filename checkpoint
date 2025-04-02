@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\ALZHEIMERS\\Alzheimers-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "D:\\ALZHEIMERS\\Alzheimers-0.001-2conv-basic.model"
